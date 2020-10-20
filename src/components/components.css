@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://weloveiconfonts.com/api/?family=fontawesome);
+
+:root {
+  --primary-color: #FF6F61;
+  --secondary-color: #616247;
+  --dark-color: #616247;
+  --light-color: #F0EDE5;
+  --info-color: #B7855F;
+  --trans: all 600ms;
+}
+
+.btn-info {
+  background-color: #B7855F;
+  color:#B7855F;
+  border-color: #B7855F;
+  }
+   
+.btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .open .dropdown-toggle.btn-info {  
+background-color: #B7855F;
+color:#B7855F;
+border-color: #B7855F;  
+}
+
+.posterfolio {
+  border-radius: 15px;
+}
+
+.iFeelLucky {
+  font-size: 20px;
+}
+  
+/* .cardimage {
+  border-radius: 5px;
+}
+
+.moviecard, .actorcard {
+  margin-bottom: 40px;
+  margin-top: 40px;
+  border-color: transparent;
+  background-color: transparent;
+  }
+
+.actorname {
+  color: #B7855F;
+}
+
+.upcomingslidercontainer,.theaterslidercontainer, .trendsportfolio, .actordeckcontainer {
+  margin-bottom: 200px;
+  margin-top: 50px;
+}
+ */
+
+
+
+

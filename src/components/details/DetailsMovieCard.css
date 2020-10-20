@@ -1,0 +1,19 @@
+
+
+.d-none {
+  display: none;
+}
+
+.d-block {
+  display: block;
+}
+
+.my-white-font {
+  color: #ffffff !important;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

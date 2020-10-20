@@ -1,0 +1,252 @@
+body {
+  background-color: #000C0B;
+}
+
+.App {
+  text-align: center;
+  background-color: #000C0B;
+  color: #B7855F;
+}
+
+/* Navbar */
+
+.nav-pills {
+  display: flex;
+  list-style-type: none;
+  margin: auto;
+  font-size: 28px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  background-color: transparent;
+}
+
+.navbar-nav > li > .dropdown-menu { 
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.dropdown-toggle[aria-expanded="true"] {
+  background: transparent !important;
+  color: #B7855F !important;
+}
+
+.dropdown-toggle:hover {
+  color:#B7855F;
+}
+
+.dropdown .dropdown-menu .dropdown-item {
+  background-color: #000C0B !important;
+  color: white;
+  opacity: 0.8;
+}
+
+.droplink {
+  font-size: 23px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-align: center;
+}
+
+.droplink:hover {
+  text-decoration: none;
+}
+
+.categoriesbutton {
+background-color: transparent;
+}
+
+.homebutton {
+  font-size: 40px;
+}
+
+.navbarbg {
+  background-color: transparent;
+  padding-bottom: 40px;
+}
+
+.font{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 20px;
+}
+
+.buttonfont {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 25px;
+  border-color: #B7855F;
+}
+
+.white {
+  color: white;
+}
+
+.blush {
+  color: #B7855F;
+}
+
+h2{
+  margin-top: 70px;
+  color: white;
+  font-size: 60px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+h3 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  color: white;
+  font-size: 40px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.cardimage, .posterfolio, .trendscol {
+  border-radius: 8px;
+}
+
+.randommoviecard {
+  margin-bottom: 40px;
+  margin-top: 40px;
+  border-color: transparent;
+  background-color: transparent;
+  height: 600px;
+  width: 300px;
+}
+/* DetailPage */
+
+.my-btn {
+  color: #ffffff !important;
+  margin-top: auto;
+}
+
+.castingcard, .castinggroup, .detailcard{
+  margin-bottom: 70px;
+  margin-top: 40px;
+  border-color: transparent;
+  background-color: transparent;
+  color: #B7855F;
+}
+
+.my-genre {
+  background-color: transparent;
+  border-color: transparent;
+  font-size: 25px;
+}
+
+.reviewcard {
+  background-color: transparent;
+  color: white;
+  border-color: #B7855F;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 21px;
+}
+
+.my-review {
+  max-height: 250px;
+  overflow: auto;
+}
+
+.castingcard {
+  margin-right: 5px;
+  margin-left: 5px;
+  max-width: 200px;
+}
+
+.castingbody {
+  color: #B7855F;
+}
+
+.castingcharacter {
+  color: white;
+}
+
+.castingcontainer {
+  margin-bottom: 40px;
+}
+
+.moviecard, .actorcard {
+  margin-bottom: 40px;
+  margin-top: 40px;
+  border-color: transparent;
+  background-color: transparent;
+  }
+
+.actorname, .my-card-body, .randommoviename{
+  color: #B7855F;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 25px;
+}
+
+.my-card-body {
+  height: 100%;
+  text-align: left;
+}
+
+.upcomingslidercontainer,.theaterslidercontainer, .trendsportfolio, .actordeckcontainer {
+  margin-bottom: 100px;
+  margin-top: 50px;
+  border-radius: 15px;
+}
+
+.actordeckcontainer {
+  margin-bottom: 100px;
+  margin-top: 50px;
+  border-radius: 15px;
+}
+
+.detailcontainer {
+  margin-bottom: 50px;
+}
+
+.videoplayer {
+margin-top: 50px;
+}
+
+
+/* Search */
+.searchbar {
+  border: none;
+  border-bottom: 2px solid var(--light-color);
+  background-color: transparent;
+  color: white;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 30px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+/* Footer */
+
+.footercontainer {
+  padding-bottom: 30px;
+  padding-top: 30px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.footerquote {
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.footercredit {
+  font-size: 20px;
+}
+.card-essai {
+  height: 30%;
+  background-color: transparent;
+  border-color: transparent;
+}
+.f-dis {
+  color:#B7855F;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 25px;
+}
+.f-diss {
+  color:#B7855F;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 20px;
+}
+.myNavEx {
+  color: orange;
+  background-color: pink;
+}
+
+.my-actor-profile-img {
+  width: 200px;
+  float: left;
+}
