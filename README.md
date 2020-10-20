@@ -1,3 +1,7 @@
+# MovieScreen
+Website dedicated to the world of cinema, created using the ReactJs framework and the 'TheMovieDB' API
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
